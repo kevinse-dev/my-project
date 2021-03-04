@@ -1,3 +1,4 @@
 KavinSebastian Mission
 -creat a website
 -website interface
+-have a knowlegde abaot GIT or GITHUB
